@@ -1,3 +1,5 @@
+_**Variable VVV is not yet compatible with VVV 2!**_
+
 # Variable VVV - The Best VVV Site Wizard
 
 	 ██    ██ ██    ██
